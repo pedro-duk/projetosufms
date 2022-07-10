@@ -7,7 +7,7 @@ disco bootável. A imagem gerada foi testada usando o emulador Bochs.
 # Como testar
 Pré-requisito: [Emulador Bochs](https://bochs.sourceforge.io/getcurrent.html)
 
-1- Extrair "Arquivos dados.zip";
-2- Inserir arquivo buildimage.c na pasta extraída;
-3- Rodar makefile;
+1- Extrair "Arquivos dados.zip"; \\
+2- Inserir arquivo buildimage.c na pasta extraída; \\
+3- Rodar makefile; \\
 4- Rodar emulador bochs.
