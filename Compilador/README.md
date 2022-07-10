@@ -1,30 +1,32 @@
-TRABALHO DE COMPILADORES 1 - Facom/UFMS - 2022.1
+# Projeto Compilador
 
-* Limitações do trabalho:
-	- Às vezes, quando ocorre um erro léxico, é feito um double free. Isso não interfere no funcionamento do compilador, somente é um problema de memória que não consegui resolver.
+## Objetivo
 
+Este trabalho tem como objetivo a criação de um programa em C++ capaz de realizar análise léxica, sintática e semântica para a linguagem hipotética X++ descrita no livro “Como Construir um Compilador Utilizando Ferramentas Java” de Márcio Eduardo Delamaro.
 
+## Limitações
+* Double-free em alguns erros léxicos
 * Análise semântica está incompleta:
 	- Não verifica se uma variável é um array;
 	- Não verifica range de arrays;
-	- Em atribuições com acessos a atributos internos de classes, não verifica se os atributos das classes existem. O tipo de cada lado é igual ao tipo da primeira variável. Por exemplo:
+	- Em atribuições com acessos a atributos internos de classes, não verifica se os atributos das classes existem. O tipo de cada lado é igual ao tipo da primeira variável.
 
 ~~~c
 class Classe1 {
-	int num;
+    int num;
 }
 
 class Classe2 {
-	int num;
+    int num;
 }
 
 class Main {
     int main() {
-		Classe1 c1;
-		Classe2 c2;
+        Classe1 c1;
+        Classe2 c2;
 		
-		c1.num = +c2.num;
-	}
+        c1.num = +c2.num;
+    }
 }
 ~~~
 
