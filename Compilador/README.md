@@ -19,7 +19,7 @@ class Classe2 {
 }
 
 class Main {
-	int main() {
+    int main() {
 		Classe1 c1;
 		Classe2 c2;
 		
