@@ -1,0 +1,13 @@
+// Redeclaração de classes
+
+class Potato {}
+
+class Potato {}
+
+// Acesso de classes não declaradas
+
+class Classe1 extends Classe2 {
+
+}
+
+

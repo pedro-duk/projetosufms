@@ -1,0 +1,5 @@
+class Potato {}
+
+class Potato {}
+
+class Funcionario {\n\t//int id;\n\t//string cpf;\n\t//Data dataNascimento;\n\n\t//string[] aliases;\n}\n\nclass Programador extends Funcionario {\n\tint codigo;\n}\n

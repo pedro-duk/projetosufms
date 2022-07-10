@@ -1,0 +1,10 @@
+class Data {}
+
+class Teste {
+	int main() {
+		Data data1;
+		Data data2;
+	
+		data1 = new Data(+data1.data2);
+	}
+}

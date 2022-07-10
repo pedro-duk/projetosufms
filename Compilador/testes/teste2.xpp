@@ -1,0 +1,158 @@
+/*
+	Comentário multiline
+*/
+
+// Comentário singleline
+
+// Classe simples sem extends
+class Funcionario {
+	int id;
+	string cpf;
+	Data dataNascimento;
+
+	string[] aliases;
+}
+
+// Classe com extends
+class Programador extends Funcionario {
+	// Testando VarDeclList
+ 	int num;
+ 	string nome;
+ 	Data data;
+
+ 	int[] nums;
+ 	string[] nomes;
+ 	Data[] datas;
+ 	Pato[] vetorDePatos;
+
+ 	int num1, num2;
+ 	string nome1, nome2;
+ 	Data data1, data2;
+
+ 	int[] nums1, nums2;
+ 	string[] nomes1, nomes2;
+ 	Data[] datas1, datas2;
+
+	// Construtor básico
+	constructor() {}
+
+	// Construtor com declaração de variável
+	constructor() {
+		print +4;
+	}
+
+	// Construtor com parâmetros
+	constructor(int paramteste) {}
+
+	// Construtor completo
+	constructor(int param1, string[] param2) {
+		int batata;
+		string xd;
+		Pato duk;
+		int[] vetorzin;
+
+		duk = new Pato();
+		duk = new Pato(+"Batata");
+		duk = new Pato(+"Batata", -2);
+ 	}
+
+	// Método simples
+ 	int getTeste() {
+ 		return +teste1;
+ 	}
+
+	// Método com parametro
+ 	Pato getPato(int indice) {
+ 		return +vetorDePatos[+indice];
+ 	}
+
+	// Método completo
+ 	int main(string[] args) {
+ 		// Testando VarDeclList (dentro de um método)
+ 		int num;
+ 		string nome;
+ 		Data data;
+
+ 		int[] nums;
+ 		string[] nomes;
+ 		Data[] datas;
+
+ 		int num1, num2;
+ 		string nome1, nome2;
+ 		Data data1, data2;
+
+ 		int[] nums1, nums2;
+ 		string[] nomes1, nomes2;
+ 		Data[] datas1, datas2;
+ 		
+ 		// Atribuições
+ 		num = +2;
+ 		num1 = +4 + +5 + -3;
+ 		num2 = +num1;
+ 		data = new Data(+2, +"potato");
+ 		data1 = new Data(+data1, +data1.data2, +data1[+3].data2[+data1]);
+ 		data2 = data[+4];
+ 		num2 = +4 < +2;
+ 		
+ 		// Print
+ 		print +2;
+ 		print +4 + +5 + -3;
+ 		print +3 * +4 / -2;
+ 		print +nums1;
+ 		print +nums1.nums2;
+ 		print +data[+4];
+ 		print +data[+4].data1[-"potato"];
+ 		print +4 < +2;
+ 		
+ 		// Read
+		read data1;
+		read data1.data2;
+		read data1[+2].data2[+data1];
+		
+		// Return
+		return +2;
+ 		return +4 + +5 + -3;
+ 		return +nums1;
+ 		return +nums1.nums2;
+ 		return +data[+4];
+ 		return +data[+4].data1[-"potato"];
+ 		return +data[+4];
+ 		return +4 < +2;
+ 		
+ 		// If: Pela gramática, é necessário ao menos uma sentença
+ 		if(+3) {
+ 			int num3;
+ 		}
+
+ 		if(+nums1) {
+ 			int num3;
+ 			num3 = +4;
+ 			print +num3;
+ 			read num3;
+ 			return +num3;
+ 			super(+3);
+ 		}
+ 		
+ 		if(+4 > +3) {
+ 			print +"4 eh maior que 3";
+ 		}
+ 		
+ 		else {
+ 			print +"4 eh menor que 3";
+ 		}
+ 		
+ 		// For: Pela gramática, é necessário ao menos uma sentença
+ 		for (;;) {
+ 			print +3;
+ 		}
+ 		
+ 		for(num = +0; +num < +10; num = +num + +10) {
+ 			print +"uepa!";
+ 		}
+
+ 		for(num.num2 = +0; +num < +10; num[+2].num2[+3] = +num + +10) {
+ 			print +"uepa!";
+ 		}
+ 	}
+}
+

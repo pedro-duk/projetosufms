@@ -1,0 +1,96 @@
+// Redeclaração de classes
+
+class Teste1 {}
+class Teste1 {}
+
+// Acesso de classes existentes x não existentes
+class Teste2 extends Inexisting{}
+
+class Teste3Aux {}
+
+class Teste3 {
+	Teste3Aux hello;
+	Teste3Inexisting goodbye;
+}
+
+// Redeclaração de variáveis e métodos
+
+class Teste4 {
+	int num;
+ 	int num;
+
+	int main() {} 	
+ 	int main() {}
+}
+
+// Acesso de métodos e variáveis existentes x não existentes
+
+class Teste5 {
+	int main () {
+		int num1;
+		num1 = +2;
+		
+		int num2;
+		num2 = +num1;
+		
+		int num3;
+		num3 = +numInexistente;
+	}
+	
+	int main2() {
+		int num1;
+		
+		// Chamada de função sem parametros
+		num1 = +main;
+		
+		// Chamada de função com parametros
+		num1 = +funcInexistente[+3];
+	}
+}
+
+// Atribuições: Verificando se tipos estão corretos
+
+class T1{}
+class T2{}
+
+class Teste6 {
+	int main() {
+		int num;
+		string pal;
+		T1 classeA, classeB;
+		T2 classeC;
+		
+		num = +2;
+		num = +"Batata";
+		
+		pal = +2;
+		pal = +"Batata";
+		
+		classeA = +classeB;
+		classeA = +classeC;
+		
+	}
+}
+
+// Expressões numéricas e de alocação
+
+class Teste7 {
+	int main() {
+		int num;
+		string pal;
+		T1 classeA, classeB;
+		T2 classeC;
+		
+		num = +3 + +4 * +7;
+		num = +4 + +"Batata";
+		
+		pal = +"ba" + +"ta" + +"ta";
+		pal = +"ba" + +"ta" + +2;
+		
+		num = +"ba" + +4;
+		
+		classeA = new T1();
+		classeC = new T1();
+		
+	}
+}
