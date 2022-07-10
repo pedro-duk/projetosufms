@@ -9,7 +9,7 @@ TRABALHO DE COMPILADORES 1 - Facom/UFMS - 2022.1
 	- Não verifica range de arrays;
 	- Em atribuições com acessos a atributos internos de classes, não verifica se os atributos das classes existem. O tipo de cada lado é igual ao tipo da primeira variável. Por exemplo:
 
-ˋˋˋ
+~~~c
 class Classe1 {
 	int num;
 }
@@ -26,6 +26,6 @@ class Main {
 		c1.num = +c2.num;
 	}
 }
-ˋˋˋ
+~~~
 
 Nessa atribuição, o compilador acredita que o tipo da esquerda é "Classe1", e o da direita é "Classe2". Portanto, gerará um erro semântico de tipos incompatíveis (apesar de não haver esse erro).
