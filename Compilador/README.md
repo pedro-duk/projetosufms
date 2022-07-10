@@ -1,11 +1,12 @@
 # Projeto Compilador
 
 ## Informações Gerais
-* <b>Semestre de </b>
+* <b> Objetivo </b>: criação de um programa em C++ capaz de realizar análise léxica, sintática e semântica para a linguagem hipotética X++ descrita no livro “Como Construir um Compilador Utilizando Ferramentas Java” de Márcio Eduardo Delamaro.
+* <b> Semestre de realização</b>: 2022.1
 
 ## Objetivo
 
-Este trabalho tem como objetivo a criação de um programa em C++ capaz de realizar análise léxica, sintática e semântica para a linguagem hipotética X++ descrita no livro “Como Construir um Compilador Utilizando Ferramentas Java” de Márcio Eduardo Delamaro.
+Este trabalho tem como objetivo a 
 
 ## Limitações
 * Double-free em alguns erros léxicos;
