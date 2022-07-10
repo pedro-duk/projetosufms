@@ -1,7 +1,7 @@
 # Projeto Compilador
 
 ## Informações Gerais
-* <b>Semestre de <\b>
+* <b>Semestre de </b>
 
 ## Objetivo
 
