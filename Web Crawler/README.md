@@ -7,8 +7,8 @@
 
 ## Como usar
 * Pré-requisitos: 
-    - Pacotes gerais: `python3` , `firefox`
-    - Pacotes Python3: `lxml`, `bs4`, `selenium`;
+    - Pacotes gerais: `python3` , `firefox`;
+    - Pacotes Python3: `lxml`, `bs4`, `selenium`.
 1. Escolher os ministros a serem buscados modificando a lista `listaministros`, presente na linha 43 do arquivo `crawlerstf.py`. Por padrão, todos os ministros (`listaministrocompleta`) são incluídos;
 2. Escolher as datas inicial e final da busca modificando a linha 46 e 47;
 3. Executar o programa pelo comando `python3 crawlerstf.py` (Linux).
