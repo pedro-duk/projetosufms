@@ -9,8 +9,7 @@
 ## Como usar
 Pré-requisito: [Emulador Bochs](https://bochs.sourceforge.io/getcurrent.html)
 
-1. Extrair "Arquivos dados.zip";
-2. Inserir arquivo buildimage.c na pasta extraída;
+1. Inserir arquivo buildimage.c na pasta "Arquivos Dados";
 3. Rodar makefile (comando make no terminal);
 4. Rodar emulador bochs (comando bochs no terminal);
 5. Executar comando "c" no bochs, fazendo com que inicie emulação.
