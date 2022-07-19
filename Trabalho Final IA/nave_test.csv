@@ -1,0 +1,180 @@
+IdPassageiro,ClassePassageiro,Nome,Sexo,Idade,Parentes a Bordo,Pais / Crianças a Bordo,Ticket,Tarifa,Cabine,Embarque
+401,3,"Niskanen, Sr. Juha",masculino,39.0,0,0,STON/O 2. 3101289,7.925,,S
+766,1,"Hogeboom, Sra. John C (Anna Andrews)",feminino,51.0,1,0,13502,77.9583,D11,S
+671,2,"Brown, Sra. Thomas William Solomon (Elizabeth Catherine Ford)",feminino,40.0,1,1,29750,39.0,,S
+180,3,"Leonard, Sr. Lionel",masculino,36.0,0,0,LINE,0.0,,S
+32,1,"Spencer, Sra. William Augustus (Marie Eugenie)",feminino,,1,0,PC 17569,146.5208,B78,C
+426,3,"Wiseman, Sr. Phillippe",masculino,,0,0,A/4. 34244,7.25,,S
+90,3,"Celotti, Sr. Francesco",masculino,24.0,0,0,343275,8.05,,S
+323,2,"Slayter, Srta. Hilda Mary",feminino,30.0,0,0,234818,12.35,,Q
+548,2,"Padro y Manent, Sr. Julian",masculino,,0,0,SC/PARIS 2146,13.8625,,C
+631,1,"Barkworth, Sr. Algernon Henry Wilson",masculino,80.0,0,0,27042,30.0,A23,S
+852,3,"Svensson, Sr. Johan",masculino,74.0,0,0,347060,7.775,,S
+57,2,"Rugg, Srta. Emily",feminino,21.0,0,0,C.A. 31026,10.5,,S
+146,2,"Nicholls, Sr. Joseph Charles",masculino,19.0,1,1,C.A. 33112,36.75,,S
+124,2,"Webber, Srta. Susan",feminino,32.5,0,0,27267,13.0,E101,S
+797,1,"Leader, Dr. Alice (Farnham)",feminino,49.0,0,0,17465,25.9292,D17,S
+43,3,"Kraeff, Sr. Theodor",masculino,,0,0,349253,7.8958,,C
+325,3,"Sage, Sr. George John Jr",masculino,,8,2,CA. 2343,69.55,,S
+577,2,"Garside, Srta. Ethel",feminino,34.0,0,0,243880,13.0,,S
+139,3,"Osen, Sr. Olaf Elon",masculino,16.0,0,0,7534,9.2167,,S
+371,1,"Harder, Sr. George Achilles",masculino,25.0,1,0,11765,55.4417,E50,C
+716,3,"Soholt, Sr. Peter Andreas Lauritz Andersen",masculino,19.0,0,0,348124,7.65,F G73,S
+582,1,"Thayer, Sra. John Borland (Marian Longstreth Morris)",feminino,39.0,1,1,17421,110.8833,C68,C
+637,3,"Leinonen, Sr. Antti Gustaf",masculino,32.0,0,0,STON/O 2. 3101292,7.925,,S
+840,1,"Marechal, Sr. Pierre",masculino,,0,0,11774,29.7,C47,C
+721,2,"Harper, Srta. Annie Jessie ""Nina""",feminino,6.0,0,1,248727,33.0,,S
+61,3,"Sirayanian, Sr. Orsen",masculino,22.0,0,0,2669,7.2292,,C
+360,3,"Mockler, Srta. Helen Mary ""Ellie""",feminino,,0,0,330980,7.8792,,Q
+718,2,"Troutt, Srta. Edwina Celia ""Winnie""",feminino,27.0,0,0,34218,10.5,E101,S
+46,3,"Rogers, Sr. William John",masculino,,0,0,S.C./A.4. 23567,8.05,,S
+423,3,"Zimmerman, Sr. Leo",masculino,29.0,0,0,315082,7.875,,S
+154,3,"van Billiard, Sr. Austin Blyler",masculino,40.5,0,2,A/5. 851,14.5,,S
+87,3,"Ford, Sr. William Neal",masculino,16.0,1,3,W./C. 6608,34.375,,S
+489,3,"Somerton, Sr. Francis William",masculino,30.0,0,0,A.5. 18509,8.05,,S
+601,2,"Jacobsohn, Sra. Sidney Samuel (Amy Frances Christy)",feminino,24.0,2,1,243847,27.0,,S
+246,1,"Minahan, Dr. William Edward",masculino,44.0,2,0,19928,90.0,C78,Q
+54,2,"Faunthorpe, Sra. Lizzie (Elizabeth Anne Wilkinson)",feminino,29.0,1,0,2926,26.0,,S
+656,2,"Hickman, Sr. Leonard Mark",masculino,24.0,2,0,S.O.C. 14879,73.5,,S
+349,3,"Coutts, Master. William Loch ""William""",masculino,3.0,1,1,C.A. 37671,15.9,,S
+196,1,"Lurette, Srta. Elise",feminino,58.0,0,0,PC 17569,146.5208,B80,C
+828,2,"Mallet, Master. Andre",masculino,1.0,0,2,S.C./PARIS 2079,37.0042,,C
+387,3,"Goodwin, Master. Sidney Leonard",masculino,1.0,5,2,CA 2144,46.9,,S
+695,1,"Weir, Col. John",masculino,60.0,0,0,113800,26.55,,S
+838,3,"Sirota, Sr. Maurice",masculino,,0,0,392092,8.05,,S
+328,2,"Ball, Sra. (Ada E Hall)",feminino,36.0,0,0,28551,13.0,D,S
+177,3,"Lefebre, Master. Henry Forbes",masculino,,3,1,4133,25.4667,,S
+209,3,"Carr, Srta. Helen ""Ellen""",feminino,16.0,0,0,367231,7.75,,Q
+465,3,"Maisner, Sr. Simon",masculino,,0,0,A/S 2816,8.05,,S
+97,1,"Goldschmidt, Sr. George B",masculino,71.0,0,0,PC 17754,34.6542,A5,C
+500,3,"Svensson, Sr. Olof",masculino,24.0,0,0,350035,7.7958,,S
+159,3,"Smiljanic, Sr. Mile",masculino,,0,0,315037,8.6625,,S
+795,3,"Dantcheff, Sr. Ristiu",masculino,25.0,0,0,349203,7.8958,,S
+783,1,"Long, Sr. Milton Clyde",masculino,29.0,0,0,113501,30.0,D6,S
+422,3,"Charters, Sr. David",masculino,21.0,0,0,A/5. 13032,7.7333,,Q
+365,3,"O'Brien, Sr. Thomas",masculino,,1,0,370365,15.5,,Q
+58,3,"Novel, Sr. Mansouer",masculino,28.5,0,0,2697,7.2292,,C
+181,3,"Sage, Srta. Constance Gladys",feminino,,8,2,CA. 2343,69.55,,S
+240,2,"Hunt, Sr. George Henry",masculino,33.0,0,0,SCO/W 1585,12.275,,S
+267,3,"Panula, Sr. Ernesti Arvid",masculino,16.0,4,1,3101295,39.6875,,S
+326,1,"Young, Srta. Marie Grice",feminino,36.0,0,0,PC 17760,135.6333,C32,C
+7,1,"McCarthy, Sr. Timothy J",masculino,54.0,0,0,17463,51.8625,E46,S
+689,3,"Fischer, Sr. Eberhard Thelander",masculino,18.0,0,0,350036,7.7958,,S
+871,3,"Balkic, Sr. Cerin",masculino,26.0,0,0,349248,7.8958,,S
+312,1,"Ryerson, Srta. Emily Borie",feminino,18.0,2,2,PC 17608,262.375,B57 B59 B63 B66,C
+787,3,"Sjoblom, Srta. Anna Sofia",feminino,18.0,0,0,3101265,7.4958,,S
+701,1,"Astor, Sra. John Jacob (Madeleine Talmadge Force)",feminino,18.0,1,0,PC 17757,227.525,C62 C64,C
+70,3,"Kink, Sr. Vincenz",masculino,26.0,2,0,315151,8.6625,,S
+708,1,"Calderhead, Sr. Edward Pennington",masculino,42.0,0,0,PC 17476,26.2875,E24,S
+823,1,"Reuchlin, Jonkheer. John George",masculino,38.0,0,0,19972,0.0,,S
+403,3,"Jussila, Srta. Mari Aina",feminino,21.0,1,0,4137,9.825,,S
+297,3,"Hanna, Sr. Mansour",masculino,23.5,0,0,2693,7.2292,,C
+589,3,"Gilinski, Sr. Eliezer",masculino,22.0,0,0,14973,8.05,,S
+334,3,"Vander Planke, Sr. Leo Edmondus",masculino,16.0,2,0,345764,18.0,,S
+704,3,"Gallagher, Sr. Martin",masculino,25.0,0,0,36864,7.7417,,Q
+115,3,"Attalah, Srta. Malake",feminino,17.0,0,0,2627,14.4583,,C
+684,3,"Goodwin, Sr. Charles Edward",masculino,14.0,5,2,CA 2144,46.9,,S
+744,3,"McNamee, Sr. Neal",masculino,24.0,1,0,376566,16.1,,S
+471,3,"Keefe, Sr. Arthur",masculino,,0,0,323592,7.25,,S
+798,3,"Osman, Sra. Mara",feminino,31.0,0,0,349244,8.6833,,S
+663,1,"Colley, Sr. Edward Pomeroy",masculino,47.0,0,0,5727,25.5875,E58,S
+55,1,"Ostby, Sr. Engelhart Cornelius",masculino,65.0,0,1,113509,61.9792,B30,C
+237,2,"Hold, Sr. Stephen",masculino,44.0,1,0,26707,26.0,,S
+259,1,"Ward, Srta. Anna",feminino,35.0,0,0,PC 17755,512.3292,,C
+19,3,"Vander Planke, Sra. Julius (Emelia Maria Vandemoortele)",feminino,31.0,1,0,345763,18.0,,S
+761,3,"Garfirth, Sr. John",masculino,,0,0,358585,14.5,,S
+711,1,"Mayne, Mlle. Berthe Antonine (""Sra de Villiers"")",feminino,24.0,0,0,PC 17482,49.5042,C90,C
+578,1,"Silvey, Sra. William Baird (Alice Munger)",feminino,39.0,1,0,13507,55.9,E44,S
+615,3,"Brocklebank, Sr. William Alfred",masculino,35.0,0,0,364512,8.05,,S
+129,3,"Peter, Srta. Anna",feminino,,1,1,2668,22.3583,F E69,C
+854,1,"Lines, Srta. Mary Conover",feminino,16.0,0,1,PC 17592,39.4,D28,S
+113,3,"Barton, Sr. David John",masculino,22.0,0,0,324669,8.05,,S
+318,2,"Moraweck, Dr. Ernest",masculino,54.0,0,0,29011,14.0,,S
+241,3,"Zabour, Srta. Thamine",feminino,,1,0,2665,14.4542,,C
+696,2,"Chapman, Sr. Charles Henry",masculino,52.0,0,0,248731,13.5,,S
+620,2,"Gavey, Sr. Lawrence",masculino,26.0,0,0,31028,10.5,,S
+609,2,"Laroche, Sra. Joseph (Juliette Marie Louise Lafargue)",feminino,22.0,1,2,SC/Paris 2123,41.5792,,C
+346,2,"Brown, Srta. Amelia ""Mildred""",feminino,24.0,0,0,248733,13.0,F33,S
+432,3,"Thorneycroft, Sra. Percival (Florence Kate White)",feminino,,1,0,376564,16.1,,S
+781,3,"Ayoub, Srta. Banoura",feminino,13.0,0,0,2687,7.2292,,C
+69,3,"Andersson, Srta. Erna Alexandra",feminino,17.0,4,2,3101281,7.925,,S
+877,3,"Gustafsson, Sr. Alfred Ossian",masculino,20.0,0,0,7534,9.8458,,S
+694,3,"Saad, Sr. Khalil",masculino,25.0,0,0,2672,7.225,,C
+190,3,"Turcin, Sr. Stjepan",masculino,36.0,0,0,349247,7.8958,,S
+81,3,"Waelens, Sr. Achille",masculino,22.0,0,0,345767,9.0,,S
+464,2,"Milling, Sr. Jacob Christian",masculino,48.0,0,0,234360,13.0,,S
+481,3,"Goodwin, Master. Harold Victor",masculino,9.0,5,2,CA 2144,46.9,,S
+231,1,"Harris, Sra. Henry Birkhardt (Irene Wallach)",feminino,35.0,1,0,36973,83.475,C83,S
+727,2,"Renouf, Sra. Peter Henry (Lillian Jefferys)",feminino,30.0,3,0,31027,21.0,,S
+335,1,"Frauenthal, Sra. Henry William (Clara Heinsheimer)",feminino,,1,0,PC 17611,133.65,,S
+252,3,"Strom, Sra. Wilhelm (Elna Matilda Persson)",feminino,29.0,1,1,347054,10.4625,G6,S
+562,3,"Sivic, Sr. Husein",masculino,40.0,0,0,349251,7.8958,,S
+291,1,"Barber, Srta. Ellen ""Nellie""",feminino,26.0,0,0,19877,78.85,,S
+150,2,"Byles, Rev. Thomas Roussel Davids",masculino,42.0,0,0,244310,13.0,,S
+11,3,"Sandstrom, Srta. Marguerite Rut",feminino,4.0,1,1,PP 9549,16.7,G6,S
+660,1,"Newell, Sr. Arthur Webster",masculino,58.0,0,2,35273,113.275,D48,C
+720,3,"Johnson, Sr. Malkolm Joackim",masculino,33.0,0,0,347062,7.775,,S
+140,1,"Giglio, Sr. Victor",masculino,24.0,0,0,PC 17593,79.2,B86,C
+169,1,"Baumann, Sr. John D",masculino,,0,0,PC 17318,25.925,,S
+519,2,"Angle, Sra. William A (Florence ""Mary"" Agnes Hughes)",feminino,36.0,1,0,226875,26.0,,S
+669,3,"Cook, Sr. Jacob",masculino,43.0,0,0,A/5 3536,8.05,,S
+218,2,"Jacobsohn, Sr. Sidney Samuel",masculino,42.0,1,0,243847,27.0,,S
+173,3,"Johnson, Srta. Eleanor Ileen",feminino,1.0,1,1,347742,11.1333,,S
+187,3,"O'Brien, Sra. Thomas (Johanna ""Hannah"" Godfrey)",feminino,,1,0,370365,15.5,,Q
+507,2,"Quick, Sra. Frederick Charles (Jane Richards)",feminino,33.0,0,2,26360,26.0,,S
+357,1,"Bowerman, Srta. Elsie Edith",feminino,22.0,0,1,113505,55.0,E33,S
+440,2,"Kvillner, Sr. Johan Henrik Johannesson",masculino,31.0,0,0,C.A. 18723,10.5,,S
+27,3,"Emir, Sr. Farred Chehab",masculino,,0,0,2631,7.225,,C
+191,2,"Pinsky, Sra. (Rosa)",feminino,32.0,0,0,234604,13.0,,S
+192,2,"Carbines, Sr. William",masculino,19.0,0,0,28424,13.0,,S
+493,1,"Molson, Sr. Harry Markland",masculino,55.0,0,0,113787,30.5,C30,S
+106,3,"Mionoff, Sr. Stoytcho",masculino,28.0,0,0,349207,7.8958,,S
+709,1,"Cleaver, Srta. Alice",feminino,22.0,0,0,113781,151.55,,S
+693,3,"Lam, Sr. Ali",masculino,,0,0,1601,56.4958,,S
+459,2,"Toomey, Srta. Ellen",feminino,50.0,0,0,F.C.C. 13531,10.5,,S
+569,3,"Doharr, Sr. Tannous",masculino,,0,0,2686,7.2292,,C
+769,3,"Moran, Sr. Daniel J",masculino,,1,0,371110,24.15,,Q
+834,3,"Augustsson, Sr. Albert",masculino,23.0,0,0,347468,7.8542,,S
+810,1,"Chambers, Sra. Norman Campbell (Bertha Griggs)",feminino,33.0,1,0,113806,53.1,E8,S
+136,2,"Richard, Sr. Emile",masculino,23.0,0,0,SC/PARIS 2133,15.0458,,C
+837,3,"Pasic, Sr. Jakob",masculino,21.0,0,0,315097,8.6625,,S
+622,1,"Kimball, Sr. Edwin Nelson Jr",masculino,42.0,1,0,11753,52.5542,D19,S
+616,2,"Herman, Srta. Alice",feminino,24.0,1,2,220845,65.0,,S
+699,1,"Thayer, Sr. John Borland",masculino,49.0,1,1,17421,110.8833,C68,C
+664,3,"Coleff, Sr. Peju",masculino,36.0,0,0,349210,7.4958,,S
+363,3,"Barbara, Sra. (Catherine David)",feminino,45.0,0,1,2691,14.4542,,C
+872,1,"Beckwith, Sra. Richard Leonard (Sallie Monypeny)",feminino,47.0,1,1,11751,52.5542,D35,S
+202,3,"Sage, Sr. Frederick",masculino,,8,2,CA. 2343,69.55,,S
+83,3,"McDermott, Srta. Brigdet Delia",feminino,,0,0,330932,7.7875,,Q
+278,2,"Parkes, Sr. Francis ""Frank""",masculino,,0,0,239853,0.0,,S
+176,3,"Klasen, Sr. Klas Albin",masculino,18.0,1,1,350404,7.8542,,S
+831,3,"Yasbeck, Sra. Antoni (Selini Alexander)",feminino,15.0,1,0,2659,14.4542,,C
+756,2,"Hamalainen, Master. Viljo",masculino,0.67,1,1,250649,14.5,,S
+821,1,"Hays, Sra. Charles Melville (Clara Jennings Gregg)",feminino,52.0,1,1,12749,93.5,B69,S
+282,3,"Olsson, Sr. Nils Johan Goransson",masculino,28.0,0,0,347464,7.8542,,S
+482,2,"Frost, Sr. Anthony Wood ""Archie""",masculino,,0,0,239854,0.0,,S
+308,1,"Penasco y Castellana, Sra. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",feminino,17.0,1,0,PC 17758,108.9,C65,C
+764,1,"Carter, Sra. William Ernest (Lucile Polk)",feminino,36.0,1,2,113760,120.0,B96 B98,S
+104,3,"Johansson, Sr. Gustaf Joel",masculino,33.0,0,0,7540,8.6542,,S
+635,3,"Skoog, Srta. Mabel",feminino,9.0,3,2,347088,27.9,,S
+745,3,"Stranden, Sr. Juho",masculino,31.0,0,0,STON/O 2. 3101288,7.925,,S
+841,3,"Alhomaki, Sr. Ilmari Rudolf",masculino,20.0,0,0,SOTON/O2 3101287,7.925,,S
+506,1,"Penasco y Castellana, Sr. Victor de Satode",masculino,18.0,1,0,PC 17758,108.9,C65,C
+881,2,"Shelley, Sra. William (Imanita Parrish Hall)",feminino,25.0,0,1,230433,26.0,,S
+845,3,"Culumovic, Sr. Jeso",masculino,17.0,0,0,315090,8.6625,,S
+420,3,"Van Impe, Srta. Catharina",feminino,10.0,0,2,345773,24.15,,S
+380,3,"Gustafsson, Sr. Karl Gideon",masculino,19.0,0,0,347069,7.775,,S
+640,3,"Thorneycroft, Sr. Percival",masculino,,1,0,376564,16.1,,S
+103,1,"White, Sr. Richard Frasar",masculino,21.0,0,1,35281,77.2875,D26,S
+603,1,"Harrington, Sr. Charles H",masculino,,0,0,113796,42.4,,S
+78,3,"Moutal, Sr. Rahamin Haim",masculino,,0,0,374746,8.05,,S
+253,1,"Stead, Sr. William Thomas",masculino,62.0,0,0,113514,26.55,C87,S
+760,1,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",feminino,33.0,0,0,110152,86.5,B77,S
+281,3,"Duane, Sr. Frank",masculino,65.0,0,0,336439,7.75,,Q
+383,3,"Tikkanen, Sr. Juho",masculino,32.0,0,0,STON/O 2. 3101293,7.925,,S
+528,1,"Farthing, Sr. John",masculino,,0,0,PC 17483,221.7792,C95,S
+404,3,"Hakkarainen, Sr. Pekka Pietari",masculino,28.0,1,0,STON/O2. 3101279,15.85,,S
+888,1,"Graham, Srta. Margaret Edith",feminino,19.0,0,0,112053,30.0,B42,S
+772,3,"Jensen, Sr. Niels Peder",masculino,48.0,0,0,350047,7.8542,,S
+307,1,"Fleming, Srta. Margaret",feminino,,0,0,17421,110.8833,,C
+472,3,"Cacic, Sr. Luka",masculino,38.0,0,0,315089,8.6625,,S
