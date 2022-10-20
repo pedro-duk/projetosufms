@@ -8,7 +8,8 @@
 
 ## Como usar
 
-O código fonte do programa criado é o `rotpar.c`.
 
-1. Para compilar: `gcc rotpar.c -fopenmp -o rotpar -Wall`
-2. Para usar: `./rotpar <nome arquivo entrada> <nome arquivo saída>`
+- A descrição do trabalho está disponível no arquivo `Descricao_Trab1_anotado.pdf`.
+- O código fonte do programa criado é o `rotpar.c`.
+- Para compilar: `gcc rotpar.c -fopenmp -o rotpar -Wall`
+- Para usar: `./rotpar <nome arquivo entrada> <nome arquivo saída>`
