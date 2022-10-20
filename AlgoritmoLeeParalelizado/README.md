@@ -7,5 +7,8 @@
 * <b> Docente: </b> Nahri Moreano
 
 ## Como usar
+
+O código fonte do programa criado é o `rotpar.c`.
+
 1. Para compilar: `gcc rotpar.c -fopenmp -o rotpar -Wall`
 2. Para usar: `./rotpar <nome arquivo entrada> <nome arquivo saída>`
